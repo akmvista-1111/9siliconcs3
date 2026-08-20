@@ -1,3 +1,11 @@
-# I am Albert Kim M. Vista
-# I am from 9-Silicon
-# My email is akmvista@brc.pshs.edu.ph
+# Computer Science 3 Portfolio
+## Student Information
+**Name:** Albert Kim M. Vista
+**Section:** Silicon
+**School Year:** 2026-2027
+
+---
+# Quarter 1
+## Activities
+### Computational Thinking Skills
+[View my Computational Thinking Exercise](q1/ctskillsSiliconVista.md)
