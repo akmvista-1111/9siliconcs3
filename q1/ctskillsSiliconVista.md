@@ -1,9 +1,9 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue
-**Name:** Albert Kim
-**Section:** Silicon
-**Last Name:** Vista
-**Date:** August 18, 2026
+**Name:** Albert Kim  
+**Section:** Silicon  
+**Last Name:** Vista  
+**Date:** August 18, 2026  
 ---
 
 ## Step 1: Identify the Big Problem
@@ -28,14 +28,12 @@ Students are taking a lot of time to buy their food, which can make students lat
 ### Selected Sub-Problem
 The cashier has to manually calculate totals and give change.
 ### Pseudocode
-```text
-START
-Display the food items and each of their prices
-Student select food items
-Calculate the total price
-Input the money given
-Calculate the change
-Display the total price and change
+START  
+Display the food items and each of their prices  
+Student select food items  
+Calculate the total price  
+Input the money given  
+Calculate the change  
+Display the total price and change  
 END
 ---
-```
