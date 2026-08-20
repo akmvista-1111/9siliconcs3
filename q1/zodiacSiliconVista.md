@@ -26,6 +26,7 @@
 
 ## Actual Code
 
+```python
 birth_year = int(input("Enter your birth year: "))
 if birth_year < 1900:
     print("Invalid Year, it should not be earlier than 1900")
@@ -56,3 +57,7 @@ else:
     elif zodiac_number == 11:
         zodiac_sign = "Pig (猪 / Zhū)"
     print("Your Chinese Zodiac Sign is: ", zodiac_sign)
+
+## Screenshot of Output
+
+![Screenshot of Output](images/zodiac_output.png)
