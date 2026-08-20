@@ -9,18 +9,18 @@
 5. If the user enters a year that is not earlier than 1900, determine the chinese zodiac sign based on the year of birth.
 6. A chinese zodiac sign will recur after each 12 years.
 7. The following chinese zodiac signs will be used: 
-    i. Rat (鼠 / Shǔ)
-    ii. Ox (牛 / Niú)
-    iii. Tiger (虎 / Hǔ)
-    iv. Rabbit (兔 / Tù)
-    v. Dragon (龙 / Lóng)
-    vi. Snake (蛇 / Shé)
-    vii. Horse (马 / Mǎ)
-    viii. Goat (羊 / Yáng)
-    ix. Monkey (猴 / Hóu)
-    x. Rooster (鸡 / Jī)
-    xi. Dog (狗 / Gǒu)
-    xii. Pig (猪 / Zhū)
+    - Rat (鼠 / Shǔ)
+    - Ox (牛 / Niú)
+    - Tiger (虎 / Hǔ)
+    - Rabbit (兔 / Tù)
+    - Dragon (龙 / Lóng)
+    - Snake (蛇 / Shé)
+    - Horse (马 / Mǎ)
+    - Goat (羊 / Yáng)
+    - Monkey (猴 / Hóu)
+    - Rooster (鸡 / Jī)
+    - Dog (狗 / Gǒu)
+    - Pig (猪 / Zhū)
 8. Consider only the year of birth
 9. Test and run the code before submitting.
 
