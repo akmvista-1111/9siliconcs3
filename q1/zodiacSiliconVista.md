@@ -57,7 +57,7 @@ else:
     elif zodiac_number == 11:
         zodiac_sign = "Pig (猪 / Zhū)"
     print("Your Chinese Zodiac Sign is: ", zodiac_sign)
-
+```
 ## Screenshot of Output
 
 ![Screenshot of Output](images/zodiac_output.png)
