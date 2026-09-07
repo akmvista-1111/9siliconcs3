@@ -17,4 +17,4 @@
 [ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 ### OOPAct
 [View my OOPAct](q1/classObjectUML.md)   
-[View my UML Diagram](q1/classDiagram.png)  
+[View my UML Diagram](images/classDiagram.png)  
