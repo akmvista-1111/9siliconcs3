@@ -18,6 +18,6 @@
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
-### I chose car as my class because it is a common vehicle that is used for transportation. Also, a car has many properties and methods that can be represented in a class.
+### I chose car as my class because I like cars and it is a common vehicle that is used for transportation. Also, a car has many properties and methods that can be represented in a class.
 ### In my opinion, the property that is the most important is plate number because it helps in finding a specific car.
 ### In my opinion, the method that is the most important is accelerate because it makes the car move faster which helps it reach its destination in a shorter time.
