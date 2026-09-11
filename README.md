@@ -18,3 +18,9 @@
 ### OOPAct
 [View my OOPAct](q1/classObjectUML.md)   
 [View my UML Diagram](images/classDiagram.png)  
+### OOPActPartII
+[View my OOPActPartII](q1/classAttributesMethods.md)   
+[View my OOPActPartII Python Implementation](q1/classImplementation.py)   
+[View my Updated UML Diagram](images/classDiagramSG5.png)   
+[View my Python Implementation Test Run](images/classTestRun.png)   
+[View my Object Diagram](images/objectDiagram.png)   
