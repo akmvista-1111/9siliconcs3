@@ -8,19 +8,26 @@
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Exercise](q1/ctskillsSiliconVista.md)
+[View my Computational Thinking Exercise](q1/ctskillsSiliconVista.md)   
+
 ### Chinese Zodiac
 [View my Chinese Zodiac Code](q1/zodiacSiliconVista.py)  
 [View my Chinese Zodiac Documentation](q1/zodiacSiliconVista.md)  
-[View my Chinese Zodiac Output](images/zodiac_output.png)
+
 ### OOP Concept
-[ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+[ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)   
+
 ### OOPAct
 [View my OOPAct](q1/classObjectUML.md)   
-[View my UML Diagram](images/classDiagram.png)  
+ 
 ### OOPActPartII
-[View my OOPActPartII](q1/classAttributesMethods.md)   
+[View my OOPActPartII](q1/classAttributesMethods.md)  
 [View my OOPActPartII Python Implementation](q1/classImplementation.py)   
-[View my Updated UML Diagram](images/classDiagramSG5.png)   
-[View my Python Implementation Test Run](images/classTestRun.png)   
-[View my Object Diagram](images/objectDiagram.png)   
+
+### OOPActPartIII
+[View my OOPActPartIII](q1/classRelationships.md)  
+[View my OOPActPartIII Python Implementation](q1/classRelationships.py)    
+
+### OOPActPartIV
+[View my OOPActPartIV](q1/advancedRelationships.md)  
+[View my OOPActPartIV Python Implementation](q1/advanceRelationships.py)    
