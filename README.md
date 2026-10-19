@@ -31,3 +31,10 @@
 ### OOPActPartIV
 [View my OOPActPartIV](q1/advancedRelationships.md)  
 [View my OOPActPartIV Python Implementation](q1/advanceRelationships.py)    
+
+
+# Quarter 2
+## Activities
+### SG8 Encapsulation
+[View my SG8 Encapsulation](q2/sg8_encapsulation.py)
+[View my SG9 Inheritance](q2/sg9_inheritance.py)
